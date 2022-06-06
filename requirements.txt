@@ -3,10 +3,12 @@ anytree
 appdirs
 aria2p
 asgiref
+asyncio
 attrdict
 beautifulsoup4
 cfscrape
 feedparser
+flask
 gc-python-utils
 google-api-python-client
 google-auth-httplib2
@@ -14,6 +16,7 @@ google-auth-oauthlib
 gunicorn
 lk21
 lxml
+megasdkrestclient
 pillow
 psutil
 psycopg2-binary
@@ -24,13 +27,10 @@ python-magic
 python-telegram-bot
 qbittorrent-api
 requests
-speedtest-cli
-six
 telegraph
+six
 tenacity
-TgCrypto
+tgCrypto
 torrentool==1.1.0
 urllib3
 yt-dlp
-lxml
-megasdkrestclient
