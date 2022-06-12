@@ -1,15 +1,12 @@
-aiohttp
 anytree
 appdirs
 aria2p
-asgiref
 asyncio
 attrdict
 beautifulsoup4
 cfscrape
 feedparser
 flask
-gc-python-utils
 google-api-python-client
 google-auth-httplib2
 google-auth-oauthlib
@@ -28,9 +25,7 @@ python-telegram-bot
 qbittorrent-api
 requests
 telegraph
-six
 tenacity
 tgCrypto
-torrentool==1.1.0
 urllib3
 yt-dlp
